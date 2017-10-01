@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. 
-
-MORE IPSUM: Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. Lorem ipsum ieme. 
+1. index.html
